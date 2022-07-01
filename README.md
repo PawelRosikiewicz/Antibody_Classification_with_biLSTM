@@ -17,6 +17,7 @@ __MY WORK__ was divided into 5 different notebooks:
 * __Notebook 02 amd 03__, were used to implement the first approach with sklearn models. notebook 02, was used to prepare the data for ml models, and notebook 03 was used to train, and evaluate different sklearn classifiers. 
 * __Notebook 04__, allows implementaiton of the second appach with LSTMs and high level classifier, Notebook, 04 also allows to test and evaluate different methods for aa-sequence cleaning, and how it may affect LSTM model performance.
 * __Notebook 05__, contains the full pipeline for data preparation, QC, LSTM and high level classifier traing and evaluation, wiht unaligned aa-sequences (vlen).
+* __src files__; contain all scripts, and tools developed for this project, my peilines called PyClass for medical image classyficaiton with preptrained CNN models, and Python Dataframe Explorer, to allow fast EDA and model summary. Additionally, I copied files provided by Kolahama labolatory to test their model, and implement in my pipeline, after small chnages in the code.  
 
 __PIPELINE IMPLEMENTATION:__ All appraoches (1-3), were evaluated with different data preprocessing procedures, and an extensive hypeparameters search, with custoi pipelines, that generate automated reports, save predictions, and have parametes, such as dataset size, contrlling the number of samples used for trianing, and model selection.
 
