@@ -35,4 +35,9 @@ __MODEL PERFORMANCE REPORT__ is generated at the end of each pipeline, for any n
 
 ### Examploratory Data Analysis
 ![outliers_slide_01](images/Slide6.jpeg)
+![outliers_slide_01](images/Slide7.jpeg)
+![outliers_slide_01](images/Slide8.jpeg)
+![outliers_slide_01](images/Slide9.jpeg)
+![outliers_slide_01](images/Slide10.jpeg)
+
 
